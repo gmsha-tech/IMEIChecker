@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMEIChecker</string>
+    <string-array name="carrier_certificate_string_array" num="2">
+        <item value="BF02262E5EF59FDD53E57059082F1A7914F284B"/>
+        <item value="9F3868A3E1DD19A5311D511A60CF94D975A344B"/>
+    </string-array>
+</resources>
